@@ -16,14 +16,23 @@
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.suggest.showSnippets": true,
     "editor.tabCompletion": "on",
-    "dendron.enableSelfContainedVaultWorkspace": true
+    "dendron.enableSelfContainedVaultWorkspace": true,
+    "git.openRepositoryInParentFolders": "always",
+    "auto-run-command.rules": [
+      {
+        "condition": "always",
+        "command": "workbench.view.extension.dendron-view",
+        "message": "Activate Dendron TreeView"
+      }
+    ]
   },
   "extensions": {
     "recommendations": [
       "dendron.dendron",
       "dendron.dendron-paste-image",
       "dendron.dendron-markdown-shortcuts",
-      "redhat.vscode-yaml"
+      "redhat.vscode-yaml",
+      "gabrielgrinberg.auto-run-command"
     ],
     "unwantedRecommendations": [
       "dendron.dendron-markdown-links",
