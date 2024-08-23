@@ -2,7 +2,7 @@
 id: honzuki-no-gekokujou
 title: 愛書的下剋上
 desc: ''
-updated: 1723803092764
+updated: 1724404008980
 created: 1723800445451
 ---
 
@@ -15,4 +15,4 @@ created: 1723800445451
 
 ## 个人评分
 
-`2/±2` [[about.二分制]]
+`+2/±2` [[about.二分制]]
