@@ -2,11 +2,11 @@
 id: bh154pn2ev1iy7ry5s6cz98
 title: 墨画
 desc: 主角
-updated: 1724639887417
+updated: 1728323210564
 created: 1723808805375
 ---
 
-本作主角
+[[阵问]] 主角
 
 ## 能力
 
