@@ -1,12 +1,12 @@
 ---
 id: 4zrn8zn30slwniywr5fl8qx
 title: 罗洁梅茵
-desc: ''
-updated: 1723807556872
+desc: 小书痴的下剋上 主人公
+updated: 1730918036122
 created: 1723807462073
 ---
 
-本书主人公。
+{{fm.desc}}
 
 丽乃 --> 梅茵 --> 罗洁梅茵
 
