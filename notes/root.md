@@ -1,7 +1,7 @@
 ---
-id: apwfetfnqacwgkv7qiv0zqa
+id: honzuki-root
 title: Root
-desc: 幻想作品的小小维基<br>A mini wiki of Phantasies
+desc: 幻想作品的数字花园<br>A digital garden of Phantasies
 updated: 1729953955680
 created: 1723569278308
 uri: https://github.com/AsakawaP/honzuki
