@@ -25,7 +25,7 @@ workspace:
         -
             fsPath: .
             selfContained: true
-            name: honzuki
+            name: asakawa.honzuki
     journal:
         dailyDomain: daily
         name: journal
